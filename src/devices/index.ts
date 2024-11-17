@@ -92,6 +92,7 @@ import frient from './frient';
 import futurehome from './futurehome';
 import ge from './ge';
 import gewiss from './gewiss';
+import gjldowol from './TZE200_gjldowol';
 import gidealed from './gidealed';
 import giderwel from './giderwel';
 import giex from './giex';
@@ -309,7 +310,7 @@ import zen from './zen';
 import zigbeetlc from './zigbeetlc';
 import zipato from './zipato';
 
-export default [
+export default [    
     ...acova,
     ...acuity_brands_lighting,
     ...adeo,
@@ -404,6 +405,7 @@ export default [
     ...futurehome,
     ...ge,
     ...gewiss,
+    ...gjldowol,
     ...gidealed,
     ...giderwel,
     ...giex,
